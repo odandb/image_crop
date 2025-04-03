@@ -1,3 +1,7 @@
+## 0.4.1
+
+* Keep cropped image with the same type/extension
+
 ## 0.4.0
 
 * adds null safety
